@@ -5,12 +5,12 @@ using them with `ar`, `ranlib`, and `nm`.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX School.
 
 ## Tasks :page_with_curl:
 
 * **0. A library is not a luxury but one of the necessities of life**
-  * [libholberton.a](./libholberton.a): C Static library containing all the functions
+  * [libmy.a](./libmy.a): C Static library containing all the functions
   listed below:
     * `int _putchar(char c);`
     * `int _islower(int c);`
@@ -33,8 +33,8 @@ using them with `ar`, `ranlib`, and `nm`.
     * `char *_strpbrk(char *s, char *accept);`
     * `char *_strstr(char *haystack, char *needle);`
 
-  * [holberton.h](./holberton.h): Header file containing the prototypes of all functions
-  included in `libholberton.a`.
+  * [main.h](./main.h): Header file containing the prototypes of all functions
+  included in `libmy.a`.
 
 * **1. Without libraries what have we? We have no past and no future**
   * [create_static_lib.sh](./create_static_lib.sh): Bash script that creates a static
