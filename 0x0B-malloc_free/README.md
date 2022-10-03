@@ -59,7 +59,7 @@ in the project.
     * The program does not crash upon receiving invalid two-dimensional arrays.
 
 * **5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe**
-  * [5-argstostr.c](./5-argstostr.c): C function that returns a pointer to a
+  * [100-argstostr.c](./5-argstostr.c): C function that returns a pointer to a
   newly-allocated space in memory containing the concatenation of all the arguments of the
   program.
     * Each argument is followed by a `\n` in the new string.
